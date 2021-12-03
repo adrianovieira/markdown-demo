@@ -1,25 +1,13 @@
-# Markdown
+# Markdown Demo
 
-# Header #
-Header not bold
+# **Header** (bold) & Header (!bold)
 
-# **Header** #
-Header bold
+## **Header** (bold) & Header (!bold)
 
-## Header ##
-Header not bold
+### **Header** (bold) & Header (!bold)
 
-## **Header**
-Header bold
+#### **Header** (bold) & Header (!bold)
 
-### Header ### (!bold)
+#### **Header** (bold) & Header (!bold)
 
-### **Header** ### ( bold)
 
-#### Header #### (!bold)
-
-#### **Header** #### ( bold)
-
-##### Header ##### (!bold)
-
-##### **Header** ##### ( bold)
