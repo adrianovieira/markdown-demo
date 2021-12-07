@@ -1,10 +1,3 @@
----
-name: Pull Request
-about: Please provide the information requested in this template
-labels: feature
-assignees: ''
----
-
 <!--
 Before you contribute, make sure to read our 
 Contributing Guidelines: 
